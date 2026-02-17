@@ -1,0 +1,20 @@
+{
+  "name": "battle-diet-v1.1",
+  "version": "1.1.0",
+  "description": "배틀 다이어트 v1.1 — 운동 & 식단 루틴 통합 에디션 | MooMoo Ranch",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.1.0"
+  }
+}
